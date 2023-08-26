@@ -1,0 +1,11 @@
+{
+  "chainId": 101,
+  "address": "7z1eZrR8uUBm6mUtDBmkRCZ9hruY9vDJEygcTfSjJr9M",
+  "symbol": "STGC",
+  "name": "StegiiiCoin",
+  "decimals": 0,
+  "logoURI": "https://raw.githubusercontent.com/Stegiii/STGC/main/stgclogo.png",
+  "tags": [
+    "social-token"
+  ]
+}
